@@ -13,4 +13,5 @@
 #### Projeto Figma
 [Figma](https://www.figma.com/community/file/1410409546403062951)
 
+#### Como ficou a tela principal do projeto
 ![Imagem da tela principal](./img/telaCodeConnect.png "Tela principal")
